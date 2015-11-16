@@ -9,7 +9,6 @@ while i < 6:
     print "Numbers now: ", numbers
     print "At the bottom i is %d" % i
 
-
 print "The numbers: "
 
 for num in numbers:
