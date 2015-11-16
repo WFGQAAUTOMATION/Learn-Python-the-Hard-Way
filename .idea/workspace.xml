@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5388aba8-63a4-42ad-986b-9b04935c37e4" name="Default" comment="added 26 quiz">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise_29.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise_30.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise_31.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise_32.py" />
+    <list default="true" id="5388aba8-63a4-42ad-986b-9b04935c37e4" name="Default" comment="added new exercises">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise_33.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Learn Python the Hard Way.iws" />
@@ -57,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise_29.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Exercise_29.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise_29.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5151515">
-              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,6 +89,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise_33.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise_33.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.22666667">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -143,6 +150,7 @@
         <option value="$PROJECT_DIR$/Exercise_30.py" />
         <option value="$PROJECT_DIR$/Exercise_31.py" />
         <option value="$PROJECT_DIR$/Exercise_32.py" />
+        <option value="$PROJECT_DIR$/Exercise_33.py" />
       </list>
     </option>
   </component>
@@ -410,7 +418,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447362267146</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added new exercises">
+      <created>1447684020350</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1447684020350</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -454,7 +468,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="added 2 exercises" />
     <MESSAGE value="added 26 quiz" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 26 quiz" />
+    <MESSAGE value="added new exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -822,14 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise_32.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise_31.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -848,8 +855,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise_29.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5151515">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise_32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise_33.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22666667">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
