@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5388aba8-63a4-42ad-986b-9b04935c37e4" name="Default" comment="added new exercises">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise_32.py" afterPath="$PROJECT_DIR$/Exercise_32.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Learn Python the Hard Way.iws" />
@@ -442,7 +441,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447705064877</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added new exercises">
+      <created>1447870624194</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1447870624194</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
