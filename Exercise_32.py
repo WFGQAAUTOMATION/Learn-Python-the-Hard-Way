@@ -6,7 +6,7 @@ change = [1, 'pennies', 2, 'dimes', 3, 'quarters']
 for number in the_count:
     print "This is count %d" % number
 
-# same as above
+# same as aboveo
 for fruit in fruits:
     print "A fruit of type: %s" % fruit
 
