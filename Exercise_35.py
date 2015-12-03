@@ -17,6 +17,7 @@ def gold_room():
         dead("You greedy bastard!")
 
 
+# git change
 def bear_room():
     print "There is a bear here."
     print "The bear has a bunch of honey."
