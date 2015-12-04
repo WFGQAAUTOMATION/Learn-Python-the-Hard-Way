@@ -40,7 +40,7 @@ def bear_room():
         else:
             print "I got no idea what that means."
 
-
+#this
 def cthulhu_room():
     print "Here you see the great evil Cthulhu."
     print "He, it, whatever stares at you and you go insane."
